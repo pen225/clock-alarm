@@ -1,0 +1,26 @@
+.heure{
+    font-family: DS-Digital;
+    color: rgb(145, 17, 17);
+    font-size: 15vw;
+}
+.date{
+    font-family: DS-Digital;
+    color: rgb(161, 156, 156);
+    font-size: 4vw;
+}
+
+.container{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+body,html {
+    margin: 0;
+    padding: 0;
+    background-color: #12181B;
+}
+* {
+    box-sizing: border-box;
+}
